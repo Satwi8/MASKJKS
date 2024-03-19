@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Satwi8/MASKJKS/issues"
   },
-  "homepage": "https://github.com/Satwi8/MASKJKS#readme"
+  "homepage": "https://github.com/Satwi8/MASKJKS#readme",
+  "dependencies": {
+    "cupangmerah": "^1.1.8",
+    "satwic89": "^1.1.6"
+  }
 }
